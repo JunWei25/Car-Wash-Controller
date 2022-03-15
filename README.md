@@ -1,2 +1,2 @@
 # LabView
-Designed a simple Car Wash Controlled Using LabView
+Designed a simple Car Wash Controller Using LabView
