@@ -1,5 +1,5 @@
 # LabView
-Designed a simple Car Wash Controller Using LabView. There are two types of car wash for the user to choose, "Deluxe Wash" and "Economy Wash". "Economy Wash" has only 1 cycle whereas "Deluxe Wash" has 3 cycles. The car wash will stop when the car is out of position and no time will be lost. 
+Designed a simple Car Wash Controller Using LabView.  There are two types of car wash for the user to choose, "Deluxe Wash" and "Economy Wash". "Economy Wash" has only 1 cycle whereas "Deluxe Wash" has 3 cycles. The car wash will stop when the car is out of position and no time will be lost. 
 
 ## Server side
 ![CarWashController1](https://user-images.githubusercontent.com/90762158/158314427-3ae3a33f-680f-461e-8ac9-6c5da31f9805.jpg)
