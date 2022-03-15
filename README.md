@@ -12,10 +12,10 @@ Designed a simple Car Wash Controller Using LabView.  There are two types of car
 ### The client side will show the time remaning of the car wash and which cycle the user is at in the car wash.
 ![CarWashController5](https://user-images.githubusercontent.com/90762158/158315494-00efa671-2afe-4962-836f-bd1e5535af29.jpg)
 
-### Throughout the car wash announcement will be made to prompt the user about the next step.
-
 ### Once the car wash has completed it will be recorded down into the system. 
 ![CarWashController6](https://user-images.githubusercontent.com/90762158/158315785-bf2d8a68-b8cc-480b-9630-e9460b5f72fb.jpg)
+
+### Throughout the car wash announcement will be made to prompt the user about the next step.
 
 ## Future Enhancement
 - Implement a security system. 
